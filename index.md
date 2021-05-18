@@ -16,4 +16,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 4. [] Pre-course study
 
 ### Further markdown practice
-- [Markdown guide] (https://guides.github.com/features/mastering-markdown/)
+* [Markdown guide] (https://guides.github.com/features/mastering-markdown/)
