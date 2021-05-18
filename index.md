@@ -6,9 +6,7 @@ Expect to see here practice `coding work` for [CodeWorks admission](https://code
 
 ### Current status of entry
 
-Entry to course consists of interviews, coding tests and a pre-course requiring completion a week prior to the course start date.  Current progress:
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Entry to course consists of interviews, coding tests and a pre-course requiring completion a week prior to the course start date.  Current state of progress:
 
 1. [X] Pre-course interview
 2. [X] Coding test
